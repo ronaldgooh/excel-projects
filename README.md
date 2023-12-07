@@ -15,6 +15,6 @@ Data analysis is a crucial aspect of decision-making, and Excel provides a power
 ## Projects
 
 1. **Bike Sales**
-   - [Project 1](./projects/data_preprocessing/project1): Description of the first data preprocessing project.
+   - [Project 1](https://github.com/ronaldgooh/excel-projects/blob/main/Full%20Project%20in%20Excel%20-%20Bike%20Sales.xlsx): Description of the first data preprocessing project.
 
 
