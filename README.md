@@ -15,6 +15,6 @@ Data analysis is a crucial aspect of decision-making, and Excel provides a power
 ## Projects
 
 1. **Bike Sales**
-   - [Project 1](https://github.com/ronaldgooh/excel-projects/blob/main/Full%20Project%20in%20Excel%20-%20Bike%20Sales.xlsx): Description of the first data preprocessing project.
+   - [Project 1](https://github.com/ronaldgooh/excel-projects/blob/main/Full%20Project%20in%20Excel%20-%20Bike%20Sales.xlsx): This project focuses on visualizing bike sales data with respect to average income, age, and commute distance. Explore the insightful visualizations to gain a better understanding of the relationships between these key factors.
 
 
