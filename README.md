@@ -19,7 +19,7 @@ Data analysis is a crucial aspect of decision-making, and Excel provides a power
   
 2. **Coffee Sales**
   
-- [Project 2](https://github.com/ronaldgooh/excel-projects/blob/main/coffeeOrdersData.xlsx): This project focuses on visualizing coffee sales data with respect to average income, age, and commute distance. Explore the insightful visualizations to gain a better understanding of the relationships between these key factors.
+- [Project 2](https://github.com/ronaldgooh/excel-projects/blob/main/coffeeOrdersData.xlsx): This project visualizes coffee sales data over multiple years, examining the impact of coffee bean types, sizes, and loyalty memberships. Explore insightful visualizations to uncover meaningful relationships between these key factors.
 
 
 
