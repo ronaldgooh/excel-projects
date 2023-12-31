@@ -16,5 +16,10 @@ Data analysis is a crucial aspect of decision-making, and Excel provides a power
 
 1. **Bike Sales**
    - [Project 1](https://github.com/ronaldgooh/excel-projects/blob/main/Full%20Project%20in%20Excel%20-%20Bike%20Sales.xlsx): This project focuses on visualizing bike sales data with respect to average income, age, and commute distance. Explore the insightful visualizations to gain a better understanding of the relationships between these key factors.
+  
+2. **Coffee Sales**
+  
+- [Project 2](https://github.com/ronaldgooh/excel-projects/blob/main/coffeeOrdersData.xlsx): This project focuses on visualizing coffee sales data with respect to average income, age, and commute distance. Explore the insightful visualizations to gain a better understanding of the relationships between these key factors.
+
 
 
