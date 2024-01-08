@@ -20,6 +20,9 @@ Data analysis is a crucial aspect of decision-making, and Excel provides a power
 2. **Coffee Sales**
   
    - [Project 2](https://github.com/ronaldgooh/excel-projects/blob/main/coffeeOrdersData.xlsx): This project visualizes coffee sales data over multiple years, examining the impact of coffee bean types, sizes, and loyalty memberships. Explore insightful visualizations to uncover meaningful relationships between these key factors.
-
+     
+3. **Coca-cola Sales**
+  
+   - [Project 3](https://github.com/ronaldgooh/excel-projects/blob/main/Coca-cola%20Dashboard.xlsx): This project offers a comprehensive visualization of Coca-Cola sales data spanning two years, providing insights into sales breakdowns by both beverage type and retailer. The visualization includes key metrics such as total sales, number of units sold, average price, and total operating profit, offering a detailed and informative overview of the Coca-Cola sales landscape.
 
 
